@@ -25,6 +25,15 @@ Start the development server on http://localhost:3000
 npm run dev
 ```
 
+```
+##Backend Location
+https://github.com/pulkit604/best-cookie-recipe-final/tree/master/api_backend
+
+Run Command: 
+php -S localhost:8000 -t public
+
+```
+
 ## Production
 
 Build the application for production:
